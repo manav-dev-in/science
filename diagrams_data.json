@@ -1,0 +1,92 @@
+[
+  {
+    "id": "microscope",
+    "title": "1. Compound Optical Microscope Anatomy & Optics",
+    "desc": "Labeled optical diagram of eyepiece, objective lenses, coarse/fine adjustment knobs, stage, and light mirror.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Optical_microscope_nikon_alphaphot.jpg/960px-Optical_microscope_nikon_alphaphot.jpg"
+  },
+  {
+    "id": "plant_cell",
+    "title": "2. Eukaryotic Plant Cell Structure",
+    "desc": "High-resolution anatomical diagram of cellulose cell wall, plasma membrane, nucleus, central vacuole, chloroplasts, and mitochondria.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Plant_cell_structure-en.svg/960px-Plant_cell_structure-en.svg.png"
+  },
+  {
+    "id": "animal_cell",
+    "title": "3. Eukaryotic Animal Cell Structure",
+    "desc": "Complete animal cell structure showing plasma membrane, central nucleus, mitochondria powerhouses, lysosomes, and centrioles.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Animal_cell_structure_en.svg/960px-Animal_cell_structure_en.svg.png"
+  },
+  {
+    "id": "onion_cells",
+    "title": "4. Onion Epidermal Cells Microscopic View",
+    "desc": "Photomicrograph showing rectangular plant cells stained with Safranin, prominent cell walls, and nuclei.",
+    "imageUrl": ""
+  },
+  {
+    "id": "cheek_cells",
+    "title": "5. Human Cheek Cells Microscopic View",
+    "desc": "Photomicrograph showing flat, irregular animal epithelial cells stained with Methylene Blue.",
+    "imageUrl": ""
+  },
+  {
+    "id": "amoeba",
+    "title": "6. Amoeba Proteus Anatomy & Pseudopodia",
+    "desc": "Single-celled protozoan schematic illustrating false feet (pseudopodia), contractile vacuole, and nucleus.",
+    "imageUrl": ""
+  },
+  {
+    "id": "paramecium",
+    "title": "7. Paramecium Caudatum Cilia Anatomy",
+    "desc": "Slipper-shaped protozoan diagram detailing surrounding cilia hair fringe, oral groove, and macronucleus.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Paramecium_diagram.svg/960px-Paramecium_diagram.svg.png"
+  },
+  {
+    "id": "bacterium",
+    "title": "8. Prokaryotic Bacterium Cell Structure",
+    "desc": "Detailed prokaryotic structure detailing capsule wall, cell membrane, circular plasmid DNA, and flagellum.",
+    "imageUrl": ""
+  },
+  {
+    "id": "biogas",
+    "title": "9. Underground Biogas (Gobar Gas) Plant",
+    "desc": "Engineering cross-section of anaerobic digester tank, slurry inlet, methane gas holder dome, and spent manure outlet.",
+    "imageUrl": ""
+  },
+  {
+    "id": "oersted",
+    "title": "10. Oersted\u2019s Compass Deflection Experiment",
+    "desc": "Physics diagram showing compass needle deflection under a current-carrying wire demonstrating magnetic effect.",
+    "imageUrl": ""
+  },
+  {
+    "id": "electromagnet",
+    "title": "11. Electromagnet & Soft Iron Core",
+    "desc": "Diagram of insulated copper solenoid coil wrapped around soft iron core connected to a DC circuit.",
+    "imageUrl": ""
+  },
+  {
+    "id": "solenoid",
+    "title": "12. Solenoid Magnetic Field Loops (B)",
+    "desc": "Magnetic field flux lines around a current-carrying cylindrical coil.",
+    "imageUrl": ""
+  },
+  {
+    "id": "dry_cell",
+    "title": "13. Zinc-Carbon Dry Cell Internal Cross-Section",
+    "desc": "Electrochemistry diagram showing Zinc outer container anode (-), central Carbon rod cathode (+), and moist paste electrolyte.",
+    "imageUrl": ""
+  },
+  {
+    "id": "voltaic_cell",
+    "title": "14. Voltaic Galvanic Acid Cell",
+    "desc": "Copper and Zinc plates immersed in dilute Sulfuric Acid electrolyte.",
+    "imageUrl": ""
+  },
+  {
+    "id": "lemon_battery",
+    "title": "15. Lemon Battery Science Experiment",
+    "desc": "Citric acid electrolyte generating electricity across copper strip and zinc/iron nail electrodes.",
+    "imageUrl": ""
+  }
+]
